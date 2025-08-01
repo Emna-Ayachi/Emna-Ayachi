@@ -1,6 +1,5 @@
 ## Hi there 👋 , I am Emna Ayachi
 <h3 align="center">Computer Science Student | Web Developer & Data Science Enthusiast</h3>
----
 
 🌱 I’m currently learning **MERN stack** and **Machine Learning**
 
