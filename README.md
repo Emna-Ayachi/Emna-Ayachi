@@ -6,7 +6,7 @@
 
 💬 Ask me about **Python**
 
-📫 How to reach me: **emnayachi444@gmail.com** or **(https://www.linkedin.com/in/emna-a-875186330/)**
+📫 How to reach me: **emnayachi444@gmail.com**
 
 ⚡ Fun fact: **I'm a book lover and can spend hours lost in a good story.**
 
@@ -26,3 +26,13 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emna-Ayachi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emna-Ayachi&layout=compact&theme=radical" />
+</p>
+
+---
+
