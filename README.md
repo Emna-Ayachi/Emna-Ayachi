@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning **MERN stack** and **Machine Learning**
 
-💬 Ask me about **Python**
-
 📫 How to reach me: **emnayachi444@gmail.com**
 
 ⚡ Fun fact: **I'm a book lover and can spend hours lost in a good story.**
